@@ -17,7 +17,7 @@ public class Main {
             System.out.println((String)x);
         }
         System.out.println("And it prints in that exact order");
-        System.out.println("TREES was entered into the TreeSet");
+        System.out.println("TREES was entered into the TreeSet.");
         Set TreeSetA = new TreeSet();
         TreeSetA.add("T");
         TreeSetA.add("R");
